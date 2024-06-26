@@ -1,6 +1,7 @@
 site_name: 'Test'
 docs_dir: '../../docs/en'                           # Where to find the English markdown files
-site_dir: '../../generated/en'                      # Where to put the English HTML files
+site_dir: '../../generated/en'  
+site_url: https://flaghunter01.github.io/material-language-test/                    # Where to put the English HTML files
 
 theme:
     name: material
